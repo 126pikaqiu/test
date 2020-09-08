@@ -20,15 +20,15 @@ WIFI连接用户名为学号，密码与复旦UIS统一身份认证系统使用�
 
 1、登录选项处选择其他登录方式：
 
-![](.\assets\xuexitong-step-0.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-0.png" width="300" />
 
 2、在机构栏输入并选中复旦大学：
 
-![](.\assets\xuexitong-step-1.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-1.png" width="300" />
 
 3、选中复旦大学后会弹出熟悉的复旦大学统一身份认证页面，输入用户名和密码登录：
 
-![](.\assets\xuexitong-step-2.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-2.png" width="300" />
 
 这样就通过使用复旦的认证平台登录了学习通（为了方便下一次登录，可以完善账户信息，绑定手机号以方便通过手机号登录）。
 
@@ -36,27 +36,27 @@ WIFI连接用户名为学号，密码与复旦UIS统一身份认证系统使用�
 
 1、在APP首页的右上角存在“邀请码”，点击邀请码后通过输入邀请码方式加入课程：
 
-![](.\assets\xuexitong-step-3.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-3.png" width="300" />
 
 2、这里输入程序设计课程的邀请码以加入课程：
 
-![](.\assets\xuexitong-step-4.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-4.png" width="300" />
 
 #### 其他功能
 
 1、加入课程后点击该课程可以进入课程内容页面：
 
-![](.\assets\xuexitong-step-5.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-5.png" width="300" />
 
 我们可以看到学习通中可以发布主题讨论，可以进行课堂选人。
 
 2、点击“作业/考试”可以查看作业完成情况：
 
-![](.\assets\xuexitong-step-6.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-6.png" width="300" />
 
 3、点击“章节”可以课程章节资源（主要是视频教学资源）：
 
-![](.\assets\xuexitong-step-7.png)
+<img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-7.png" width="300" />
 
 ### Github平台
 
