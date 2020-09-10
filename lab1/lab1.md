@@ -38,7 +38,7 @@ WIFI连接用户名为学号，密码与复旦UIS统一身份认证系统使用�
 
 <img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-3.png" width="300" />
 
-2、这里输入程序设计课程的邀请码-<strong>83341795</strong>,以加入课程：
+2、这里输入程序设计课程的邀请码-<strong style="color:green;">83341795</strong>,以加入课程：
 
 <img src="https://github.com/126pikaqiu/test/blob/master/lab1/assets/xuexitong-step-4.png" width="300" />
 
